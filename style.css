@@ -1,0 +1,48 @@
+#score
+{
+    font-family: 'Black Han Sans', sans-serif;
+    margin-left: 5px;
+    font-size: 25px;
+}
+
+#timer
+{
+    float: right;
+    margin-right: 5px;
+    font-size: 25px;
+    font-family: 'Black Han Sans', sans-serif;
+}
+body
+{
+    background-color: rgb(255, 164, 164);
+}
+
+h1
+{
+    background-color: cornsilk;
+    color: rgb(38,0,255);
+    font-family: 'Ceviche One', cursive;
+    margin-top: 0px;
+    font-size: xx-large;
+}
+
+#show_sketch
+{
+    float: right;
+font-size: 18px;
+}
+
+p
+{
+    font-family: 'Hachi Maru Pop', cursive;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+}
+
+#sketch_to_be_drawn
+{
+    font-family: 'Creepster', cursive;
+    font-size: 30px;
+    color: brown;
+}
